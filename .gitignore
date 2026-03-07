@@ -2,3 +2,7 @@
 potato*/
 
 venv*/
+
+models*/
+
+.ipynb_checkpoints
