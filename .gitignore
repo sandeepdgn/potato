@@ -1,2 +1,4 @@
 # Ignore all folders starting with "potato"
 potato*/
+
+venv*/
