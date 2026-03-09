@@ -80,7 +80,7 @@ potato-leaf-disease-detection/
 ### 1. Clone the repository
 
 ```id="g6rr1c"
-git clone https://github.com/yourusername/potato_leaf.git
+git clone https://github.com/sandeepdgn/potato
 cd potato_leaf
 ```
 
