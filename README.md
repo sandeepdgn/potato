@@ -153,7 +153,7 @@ models/
 Example:
 
 ```id="pxbz4c"
-models/potato_disease_model.h5
+models/{model_version}/potato_disease_model.h5
 ```
 
 ---
@@ -238,10 +238,6 @@ If you use this project for research or further development, please acknowledge 
 
 **Sandeep**
 
-Engineering Student interested in **Artificial Intelligence, Machine Learning, and IoT**
 
 ---
 
-# 📄 License
-
-This project is open-source and available under the **MIT License**.
